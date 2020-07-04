@@ -1,17 +1,16 @@
-## Welcome to GitHub Pages
+##欢迎访问李睿哲个人博客！
 
-You can use the [editor on GitHub](https://github.com/liruizhe01/liruizhe01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+技术支持：Github Page
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 李睿哲个人博客
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+关于我
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 个人简介
 ## Header 2
 ### Header 3
 
